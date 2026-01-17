@@ -25,9 +25,6 @@ wheels/
 venv/
 ENV/
 
-# uv
-uv.lock
-
 # IDE
 .idea/
 .vscode/
