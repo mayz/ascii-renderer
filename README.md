@@ -2,7 +2,9 @@
 
 High-quality ASCII art renderer using shape-based character matching.
 
-![Tux rendered as ASCII art](examples/tux.png)
+<p align="center">
+  <img src="examples/tux.png" alt="Tux rendered as ASCII art" width="500">
+</p>
 
 ## Attribution
 
