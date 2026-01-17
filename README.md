@@ -2,6 +2,8 @@
 
 High-quality ASCII art renderer using shape-based character matching.
 
+![Tux rendered as ASCII art](examples/tux.png)
+
 ## Attribution
 
 This is a Python implementation of the technique described by **Alex Harri** in his excellent blog post:
